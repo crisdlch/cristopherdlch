@@ -1,4 +1,4 @@
-### ¡Hi there 👋! I'm Cristopher from Perú
+### Hi there👋 I'm Cristopher from Perú
 
 <!--
 **cristopherdlch/cristopherdlch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
